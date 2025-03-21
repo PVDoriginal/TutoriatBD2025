@@ -9,8 +9,6 @@ Nimic interesant :(
 - Tabele si Entitati inseamna in practica acelasi lucru.
 - Cheie Primara = PK
 - Cheie Straina = FK 
-- Many = M 
-
 
 ## Cardinalitati Maxime(Minime)
 
