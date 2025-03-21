@@ -57,5 +57,9 @@ Entitatile pot fi independente (strong) sau depdendente (weak).
 - Intre Studenti, Companii si Programe exista o relatie de tip 3, deoarece toate sunt conectate prin Many. Relatia se va desena ca un romb, iar in diagrama conceptuala se va transforma intr-un tabel asociativ. 
 - Atestari este o entitate dependenta.
 
+# Curs 3 - Caching
+
+Nimic super interesant. Voi actualiza daca devine ceva de aici relevant.
+
 
 
