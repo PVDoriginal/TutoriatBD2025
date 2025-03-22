@@ -54,6 +54,6 @@ Afisati tarile in care exista un angajat cu salariul intre 5000 si 6000.
 
 Ex 7 
 ```
-Afisati numele angajatilor care nu au acelasi nume de familie cu un angajat ce lucreaza in Roma.
+Afisati numele angajatilor care nu au acelasi nume de familie cu un angajat ce lucreaza in "Roma".
 ```
 
