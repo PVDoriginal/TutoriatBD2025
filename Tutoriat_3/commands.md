@@ -32,7 +32,7 @@ O tranzactie reprezinta o unitate atomica, logica de lucru ce contine comenzi SQ
 
 Va puteti gandi la o tranzactie ca fiind o copie a starii curente a bazei de date asupra careia sunt aplicate niste comenzi.
 
-Cand SQL vede prima comanda LMD face o "poza" starii curente a bazei de date asupra careia urmeaza sa faca toate modificarile.
+Cand SQL vede prima comanda DML face o "poza" starii curente a bazei de date asupra careia urmeaza sa faca toate modificarile.
 
 #### COMMIT si ROLLBACK
 Cand e rulat `COMMIT` aceasta stare devine starea reala a bazei de date, iar cand e rulat `ROLLBACK` schimbarile facute asupra starii intermediare sunt anulate si tranzactia e "distrusa".
