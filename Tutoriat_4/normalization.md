@@ -15,11 +15,19 @@ Exemplu:
 Inainte de normalizare
 
 Pozitii_juc
+
+
+
+
 ![](FN1_before.png)
 
 Dupa normalizare
 
 Pozitii_juc
+
+
+
+
 ![](FN1_after.png)
 
 #### FN2 - Forma Normala 2
@@ -31,14 +39,26 @@ Exemplu:
 Inainte de normalizare
 
 Medic
+
+
+
+
 ![](FN2_before.png)
 
 Dupa normalizare
 
 Medic
+
+
+
+
 ![](FN2_after_medic.png)
 
 Specializare
+
+
+
+
 ![](FN2_after_spec.png)
 
 #### FN3 - Forma Normala 3
@@ -50,14 +70,26 @@ Exemplu:
 Inainte de normalizare
 
 Medic
+
+
+
+
 ![](FN3_before.png)
 
 Dupa normalizare
 
 Medic
+
+
+
+
 ![](FN3_after_medic.png)
 
 Specializare
+
+
+
+
 ![](FN3_after_spec.png)
 
 ## Denormalizare
