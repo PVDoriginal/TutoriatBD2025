@@ -13,9 +13,9 @@ DataGrip il puteti descarca [aici](https://www.jetbrains.com/datagrip/). Va treb
 
 # Optiunea 1: Conectare
 
-Va puteti adauga un data source in DataGrip cu datele astea (parola este "oracle"): 
+Va puteti adauga un data source in DataGrip cu datele astea (parola este "grupa142"): 
 
-![image](https://github.com/user-attachments/assets/483ffb89-5420-4eac-b861-1ea9352e5f7f)
+![image](https://github.com/user-attachments/assets/9f359e77-f4c3-492d-af74-79a1c159cabf)
 
 # Optiunea 2: Local Host 
 
