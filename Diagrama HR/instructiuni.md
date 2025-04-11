@@ -24,3 +24,7 @@ Puteti descarca unul de [aici](https://www.oracle.com/database/technologies/xe-d
 
 In timpul instalarii o sa va ceara o parola. Este foarte important sa o tineti minte, deoarece nu poate fi schimbata mai tarziu si va fi necesara pentru accesarea bazei de date.
 
+La final va puteti conecta din DataGrip cu datele astea: 
+(parola o sa fie cea scrisa in timpul instalarii)
+
+![image](https://github.com/user-attachments/assets/a3f0a89b-3f6f-4404-bec3-625873d82fb5)
