@@ -1,4 +1,4 @@
-# Intro
+![image](https://github.com/user-attachments/assets/0b9a4041-7502-417a-8fac-fa900ccbd072)# Intro
 
 HR este o diagrama facuta de Oracle pe care o vom folosi pentru diverse exercitii
 
@@ -20,8 +20,7 @@ Va puteti adauga un data source in DataGrip cu datele astea (parola este "grupa1
 # Optiunea 2: Local Host 
 
 Mai intai va trebui sa va instalati un server local Oracle pe PC. 
+Puteti descarca unul de [aici](https://www.oracle.com/database/technologies/xe-downloads.html).
 
-Aveti pasii de instalare [aici](https://github.com/PVDoriginal/TutoriatBD2025/blob/Sapt-1/instalare_oracleExpress.pdf).
-Puteti ignora prima chestie cu SQL Developer si cu scripturile.
+In timpul instalarii o sa va ceara o parola. Este foarte important sa o tineti minte, deoarece nu poate fi schimbata mai tarziu si va fi necesara pentru accesarea bazei de date.
 
-Cum scrie si acolo, dupa ce va instalazi baza de date, rulati pe rand [scripturile](https://github.com/PVDoriginal/TutoriatBD2025/tree/Sapt-1/Diagrama%20HR/Scripturi) pentru a crea o copie a HR-ului. 
