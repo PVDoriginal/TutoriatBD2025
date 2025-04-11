@@ -56,12 +56,6 @@ Afisati numele angajatilor care lucreaza in departamentul "Administration".
 
 </details>
 
-
-Ex 4
-```
-Afisati numele departamentelor care se afla in "Roma".
-```
-
 Ex 5
 ```
 Afisati numele departamentelor si a angajatilor ce lucreaza in ele. 
@@ -73,30 +67,3 @@ Afisati numele departamentelor si a angajatilor ce lucreaza in ele.
   SELECT FIRST_NAME, DEPARTMENT_NAME
   FROM EMPLOYEES FULL JOIN DEPARTMENTS ON (EMPLOYEES.DEPARTMENT_ID = DEPARTMENTS.DEPARTMENT_ID);
   ```
-
-</details>
-
-## Medium 
-
-Ex 6
-```
-Afisati numele angajatilor care lucreaza in "Japan". 
-```
-
-Ex 7
-```
-Afisati departamentele in care nu lucreaza niciun angajat. 
-```
-
-## Advanced
-
-Ex 8 
-```
-Afisati tarile in care exista un angajat cu salariul intre 5000 si 6000.
-```
-
-Ex 9 
-```
-Afisati numele angajatilor care nu au acelasi nume de familie cu un angajat ce lucreaza in "Roma".
-```
-
