@@ -48,7 +48,8 @@ WHERE j.min_salary < 10000;
 
 Ex 2 
 ```
-Get departments for which all employees have salaries greater than the average salary of employees in at least 3 other departments. 
+Get departments for which all employees have salaries greater than the
+average salary of employees in at least 3 other departments. 
 ```
 
 Ex 3 
